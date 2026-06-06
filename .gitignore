@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.mplconfig/
+
+# OS
+.DS_Store
+
+# Generated at runtime
+data/processed/
+/models/
+outputs/tariff_recommendations.csv
+outputs/acn_revenue_simulation.csv
+
+# Local copies / duplicates (use data/ paths in README)
+UrbanEV_ SZ_districts 2/
+ACN Data_ 25 April 2018 to 16 Dec 2018 2/
+ACN Data_ 25 April 2018 to 16 Dec 2018 3/
+ACN Data_ 25 April 2018 to 16 Dec 2018 4/
+*.zip

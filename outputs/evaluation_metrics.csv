@@ -1,0 +1,2 @@
+demand_rmse,demand_mae,demand_r2,revenue_gain_pct,utilization_before,utilization_after,off_peak_uplift_pct,avg_wait_reduction_pct,customer_response_rate_pct,pricing_efficiency_baseline,pricing_efficiency_dynamic,pricing_efficiency_improvement_pct
+0.036053331295712934,0.020640888701362672,0.9417676502232718,-0.6726248357314699,0.2896931403842766,0.2918654603058647,1.1065797952671634,1.3462988190250493,0.36501934199826686,15.0,14.841630643368433,-1.0557957108771159

@@ -1,0 +1,5 @@
+{
+  "action": "loosen_surge_deepen_discount",
+  "surge_threshold_suggestion": 0.7525,
+  "discount_threshold_suggestion": 0.3475
+}
